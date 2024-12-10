@@ -18,3 +18,8 @@ example:
 	->From 
 	->To 
 	->Amount
+
+2) hash:
+--------
+you can compare a hash with a fingerprint which is unique
+
