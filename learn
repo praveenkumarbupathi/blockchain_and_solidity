@@ -23,3 +23,5 @@ example:
 --------
 you can compare a hash with a fingerprint which is unique
 
+once a block is created the hash is calculated , changing something inside the block can change the hash 
+
