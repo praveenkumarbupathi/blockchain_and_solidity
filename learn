@@ -25,3 +25,17 @@ you can compare a hash with a fingerprint which is unique
 
 once a block is created the hash is calculated , changing something inside the block can change the hash 
 
+
+3) hash of previous block:
+--------------------------
+
+creates the chain between the blocks 
+
+
+
+example:
+ 
+block1                       block2                          block3 
+
+hash: 1Z8F                  hash: 6BQ1                       hash: 3H4Q
+previous_hash: 0000         previous_hash: 1Z8F		     previous_hash: 6BQ1
